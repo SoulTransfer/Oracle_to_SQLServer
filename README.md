@@ -19,7 +19,8 @@ string datatype is nvarchar which is the explicit UTF8 datatype of SQL Server). 
 it should work with WE1252WIN databases too.
 
 #Example
+========
 You can run the script with the following command:
-sqlplus /nolog @Oracle
+sqlplus /nolog @TableScript.sql
 
 
